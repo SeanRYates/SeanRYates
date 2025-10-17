@@ -4,4 +4,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SeanRYates/SeanRYates/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanRYates&layout=compact&theme=tokyonight)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SeanRYates&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SeanRYates&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
